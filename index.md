@@ -38,7 +38,7 @@ title: Home
                     My work focuses on <strong>Apache Iceberg</strong>, <strong>DataFusion</strong>, and data transformation tools.
                 </p>
                 <p>
-                    With a background in engineering, I've transitioned into software development with a particular interest in
+                    With a PhD in mechanical engineering, I've transitioned into software development with a particular interest in
                     <strong>Rust programming</strong> and its applications in high-performance data processing systems. I enjoy
                     speaking at conferences and meetups, sharing insights about materialized views, incremental view maintenance,
                     and modern data engineering practices.
