@@ -5,7 +5,7 @@ title: Home
 
 <div class="bg-gradient-to-br from-blue-50 to-indigo-100 py-20">
     <div class="max-w-4xl mx-auto px-4 text-center">
-        <img src="{{ '/assets/19823005.png' | relative_url }}"
+        <img src="{{ '/assets/PXL_20240310.jpg' | relative_url }}"
              alt="Jan Kaul"
              class="w-40 h-40 rounded-full mx-auto mb-8 object-cover border-4 border-white shadow-lg">
         <h1 class="text-5xl font-bold text-gray-900 mb-6">
