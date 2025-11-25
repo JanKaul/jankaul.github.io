@@ -37,4 +37,3 @@ Here are some of the projects I've worked on:
 
 ---
 
-*This is a template. Replace with your actual projects!*
